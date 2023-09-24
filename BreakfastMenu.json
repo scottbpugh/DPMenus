@@ -1,44 +1,49 @@
 {
-  "monthlyMenu": {
+  "menu": {
     "25": {
       "day": "Monday",
+      "meal": "Breakfast",
       "items": {
-        "protein": "Strawberry GoGurt",
-        "grain": "Cinnamon Crisps",
-        "fruit": "Fruit Choice",
+        "protein": ["Strawberry GoGurt"],
+        "grain": ["Cinnamon Crisps"],
+        "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
     "26": {
       "day": "Tuesday",
+      "meal": "Breakfast",
       "items": {
-        "grain": "Apple Frudel",
-        "fruit": "Fruit Choice",
+        "grain": ["Apple Frudel"],
+        "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
     "27": {
       "day": "Wednesday",
+      "meal": "Breakfast",
       "items": {
-        "protein": "Cheese Stick",
-        "grain": "French Toast Mini Loaf",
-        "fruit": "Fruit Choice",
+        "protein": ["Cheese Stick"],
+        "grain": ["French Toast Mini Loaf"],
+        "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
     "28": {
       "day": "Thursday",
+      "meal": "Breakfast",
       "items": {
-        "grain": "Ultimate Breakfast Bar",
-        "fruit": "Fruit Choice",
+        "grain": ["Ultimate Breakfast Bar"],
+        "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
     "29": {
       "day": "Friday",
+      "meal": "Breakfast",
       "items": {
-        "grain": "Mini Strawberry Bagel Bites",
-        "fruit": "Fruit Choice",
+        "grain": ["Mini Strawberry Bagel Bites"],
+        "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     }
