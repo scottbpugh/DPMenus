@@ -1,51 +1,45 @@
 {
-  "school": "Unknown School",
   "monthlyMenu": {
-    "18": {
+    "25": {
       "day": "Monday",
-      "mealType": "Breakfast",
       "items": {
-        "mainEntree": "Crescent Filled w/ Grape Jelly",
-        "fruit": "Fruit Choice",
-        "milk": ["Skim Milk", "1% Milk"]
-      }
-    },
-    "19": {
-      "day": "Tuesday",
-      "mealType": "Breakfast",
-      "items": {
-        "grain": "Banana Muffin",
+        "protein": "Strawberry GoGurt",
+        "grain": "Cinnamon Crisps",
         "fruit": "Fruit Choice",
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "20": {
-      "day": "Wednesday",
-      "mealType": "Breakfast",
+    "26": {
+      "day": "Tuesday",
       "items": {
-        "grain": "Mini Cinnis",
+        "grain": "Apple Frudel",
         "fruit": "Fruit Choice",
-        "milk": ["Skim Milk", "1% Milk"]
+        "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "21": {
-      "day": "Thursday",
-      "mealType": "Breakfast",
+    "27": {
+      "day": "Wednesday",
       "items": {
         "protein": "Cheese Stick",
-        "grain": "Cherrios Cereal Bar",
+        "grain": "French Toast Mini Loaf",
         "fruit": "Fruit Choice",
-        "milk": ["Skim Milk", "1% Milk"]
+        "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "22": {
-      "day": "Friday",
-      "mealType": "Breakfast",
+    "28": {
+      "day": "Thursday",
       "items": {
-        "protein": "Strawberry Banana Smoothie",
-        "grain": "Emoji WG Crackers",
+        "grain": "Ultimate Breakfast Bar",
         "fruit": "Fruit Choice",
-        "milk": ["Skim Milk", "1% Milk"]
+        "milk": ["1% Milk", "Skim Milk"]
+      }
+    },
+    "29": {
+      "day": "Friday",
+      "items": {
+        "grain": "Mini Strawberry Bagel Bites",
+        "fruit": "Fruit Choice",
+        "milk": ["1% Milk", "Skim Milk"]
       }
     }
   }
