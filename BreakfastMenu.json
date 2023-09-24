@@ -1,147 +1,52 @@
 {
-  "school": "Deephaven Elementary",
-  "version": "1.3.10887",
+  "school": "Unknown School",
   "monthlyMenu": {
-    "5": {
-      "day": "Tuesday",
-      "special": "All District - Banana Muffin",
+    "18": {
+      "day": "Monday",
+      "mealType": "Breakfast",
       "items": {
-        "grain": "Banana Muffin",
+        "mainEntree": "Crescent Filled w/ Grape Jelly",
         "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "6": {
-      "day": "Wednesday",
-      "special": "All District - Mini Cinnis",
-      "items": {
-        "grain": "Mini Cinnis",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "7": {
-      "day": "Thursday",
-      "special": "All District - Cherrios Cereal Bar/Cheese Stick",
-      "items": {
-        "protein": "Cheese Stick",
-        "grain": "Cherrios Cereal Bar",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "8": {
-      "day": "Friday",
-      "special": "All District - Strawberry Banana Smoothie/Crackers",
-      "items": {
-        "protein": "Strawberry Banana Smoothie",
-        "grain": "Emoji WG Crackers",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "12": {
-      "day": "Tuesday",
-      "items": {
-        "protein": "Strawberry GoGurt",
-        "grain": "Cinnamon Crisps",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "13": {
-      "day": "Wednesday",
-      "items": {
-        "grain": "Apple Frudel",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "14": {
-      "day": "Thursday",
-      "items": {
-        "protein": "Cheese Stick",
-        "grain": "French Toast Mini Loaf",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "15": {
-      "day": "Friday",
-      "items": {
-        "grain": "Ultimate Breakfast Bar",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
     "19": {
       "day": "Tuesday",
+      "mealType": "Breakfast",
       "items": {
-        "mainEntree": "Crescent Filled w/ Grape Jelly",
+        "grain": "Banana Muffin",
         "fruit": "Fruit Choice",
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
     "20": {
       "day": "Wednesday",
+      "mealType": "Breakfast",
       "items": {
-        "grain": "Banana Muffin",
+        "grain": "Mini Cinnis",
         "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
     "21": {
       "day": "Thursday",
-      "items": {
-        "grain": "Mini Cinnis",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "22": {
-      "day": "Friday",
+      "mealType": "Breakfast",
       "items": {
         "protein": "Cheese Stick",
         "grain": "Cherrios Cereal Bar",
         "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
-    "26": {
-      "day": "Tuesday",
-      "items": {
-        "protein": "Strawberry GoGurt",
-        "grain": "Cinnamon Crisps",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "27": {
-      "day": "Wednesday",
-      "items": {
-        "grain": "Apple Frudel",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "28": {
-      "day": "Thursday",
-      "items": {
-        "protein": "Cheese Stick",
-        "grain": "French Toast Mini Loaf",
-        "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "29": {
+    "22": {
       "day": "Friday",
+      "mealType": "Breakfast",
       "items": {
-        "grain": "Ultimate Breakfast Bar",
+        "protein": "Strawberry Banana Smoothie",
+        "grain": "Emoji WG Crackers",
         "fruit": "Fruit Choice",
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     }
-  },
-  "note": "Menus are subject to change due to product availability.",
-  "institution": "This institution is an equal opportunity provider."
+  }
 }
