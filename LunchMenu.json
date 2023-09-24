@@ -1,0 +1,59 @@
+{
+  "menu": {
+    "25": {
+      "day": "Monday",
+      "elem": {
+        "name": "Cheeseburger",
+        "mainEntree": ["Cheeseburger", "Turkey & Cheese Bento Box"],
+        "grain": ["Hamburger Bun"],
+        "vegetable": ["French Fries", "Baked Beans"],
+        "fruit": ["Fruit Choice"],
+        "milk": ["Skim Milk", "1% Milk"]
+      }
+    },
+    "26": {
+      "day": "Tuesday",
+      "elem": {
+        "name": "Turkey Nacho",
+        "mainEntree": ["Turkey Nachos", "Refried Bean", "Build Your Own Cheese Pizza Kit"],
+        "grain": ["Tostitos Chips", "Walking Taco"],
+        "vegetable": ["Refried Beans", "Romaine Lettuce", "Salsa Cup", "Seasoned Corn"],
+        "fruit": ["Fruit Choice"],
+        "milk": ["1% Milk", "Skim Milk"],
+        "other": ["Shredded Cheddar Cheese"]
+      }
+    },
+    "27": {
+      "day": "Wednesday",
+      "elem": {
+        "name": "Cheese Filled Bites",
+        "mainEntree": ["Turkey & Cheese Bento Box", "Cheesy Bites"],
+        "vegetable": ["Carrot Sticks", "Hummus", "Romaine Lettuce w/ Ranch", "Marinara Sauce"],
+        "fruit": ["Fruit Choice"],
+        "milk": ["1% Milk", "Skim Milk"]
+      }
+    },
+    "28": {
+      "day": "Thursday",
+      "elem": {
+        "name": "Chicken Nuggets",
+        "mainEntree": ["Chicken Nuggets", "Build Your Own Cheese Pizza Kit"],
+        "vegetable": ["Mashed Potatoes", "Green Beans"],
+        "fruit": ["Fruit Choice"],
+        "milk": ["1% Milk", "Skim Milk"],
+        "dessert": ["Jonny Pop - Straw/Ban"]
+      }
+    },
+    "29": {
+      "day": "Friday",
+      "elem": {
+        "name": "Mandarin Chicken",
+        "mainEntree": ["Mandarin Orange Chicken", "Grilled Cheese Sandwich"],
+        "grain": ["WG Crackers", "Brown Rice"],
+        "vegetable": ["Carrot Sticks", "Steamed Broccoli, Carrots & Cauliflower"],
+        "fruit": ["Fruit Choice"],
+        "milk": ["1% Milk", "Skim Milk"]
+      }
+    }
+  }
+}
