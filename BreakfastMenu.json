@@ -1,50 +1,50 @@
 {
   "menu": {
-    "25": {
+    "2": {
       "day": "Monday",
       "meal": "Breakfast",
       "items": {
-        "protein": ["Strawberry GoGurt"],
-        "grain": ["Cinnamon Crisps"],
+        "mainEntree": ["Crescent Filled w/ Grape Jelly"],
         "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
-    "26": {
+    "3": {
       "day": "Tuesday",
       "meal": "Breakfast",
       "items": {
-        "grain": ["Apple Frudel"],
+        "grain": ["Banana Muffin"],
         "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "27": {
+    "4": {
       "day": "Wednesday",
       "meal": "Breakfast",
       "items": {
-        "protein": ["Cheese Stick"],
-        "grain": ["French Toast Mini Loaf"],
+        "grain": ["Mini Cinnis"],
         "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
-    "28": {
+    "5": {
       "day": "Thursday",
       "meal": "Breakfast",
       "items": {
-        "grain": ["Ultimate Breakfast Bar"],
+        "protein": ["Cheese Stick"],
+        "grain": ["Cherrios Cereal Bar"],
         "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
-    "29": {
+    "6": {
       "day": "Friday",
       "meal": "Breakfast",
       "items": {
-        "grain": ["Mini Strawberry Bagel Bites"],
+        "protein": ["Strawberry Banana Smoothie"],
+        "grain": ["Emoji WG Crackers"],
         "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     }
   }
