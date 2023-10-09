@@ -1,57 +1,49 @@
 {
   "menu": {
-    "2": {
+    "9": {
       "day": "Monday",
-      "elem": {
-        "name": "HOT DOG",
-        "mainEntree": ["Beef Hot Dog", "Cheesy Fish Filet"],
-        "grain": ["Hot Dog Bun", "Hamburger Bun"],
-        "vegetable": ["Seasoned Peas", "Carrot Sticks"],
+      "meal": "ELEM - Chicken Nuggets",
+      "items": {
+        "mainEntree": ["Chicken Nuggets", "Turkey & Cheese Bento Box"],
+        "vegetable": ["Mashed Potatoes", "Green Beans"],
         "fruit": ["Fruit Choice"],
-        "milk": ["Skim Milk", "1% Milk"],
-        "other": ["Potato Chips"]
+        "milk": ["1% Milk", "Skim Milk"],
+        "dessert": ["Jonny Pop - Straw/Ban"]
       }
     },
-    "3": {
+    "10": {
       "day": "Tuesday",
-      "elem": {
-        "name": "Mac & Cheese",
-        "mainEntree": ["Mini Corn Dogs", "Mac & Cheese"],
-        "vegetable": ["Green Beans", "Carrot Sticks"],
+      "meal": "ELEM - Beef Taco",
+      "items": {
+        "mainEntree": ["Beef Taco", "Build Your Own Cheese Pizza Kit"],
+        "protein": ["Shredded Cheddar Cheese"],
+        "grain": ["Tostitos Chips", "Walking Taco"],
+        "vegetable": ["Salsa Cup", "Refried Beans", "Romaine Lettuce", "Seasoned Corn"],
         "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     },
-    "4": {
+    "11": {
       "day": "Wednesday",
-      "elem": {
-        "name": "Pizzaioli",
-        "mainEntree": ["Pizzaioli Beef Pepperoni Pizza", "Pizzaioli Cheese Pizza", "Pizzaioli Veggie Pizza", "Chef Salad"],
-        "grain": ["Garlic Breadstick"],
-        "vegetable": ["Carrot Sticks", "Hummus", "Romaine Lettuce w/ Ranch"],
-        "fruit": ["Slushie - Kiwi Strawberry", "Fruit Choice"],
+      "meal": "ELEM - Cheese Filled Bites",
+      "items": {
+        "mainEntree": ["Cheesy Bites", "Chef Salad"],
+        "vegetable": ["Carrot Sticks", "Hummus", "Romaine Lettuce w/ Ranch", "Marinara Sauce"],
+        "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "5": {
+    "12": {
       "day": "Thursday",
-      "elem": {
-        "name": "Chicken Tenders",
-        "mainEntree": ["Chicken Tenders", "Build Your Own Cheese Pizza Kit"],
-        "vegetable": ["French Fries", "Carrot Sticks"],
+      "meal": "ELEM - Breaded Chicken Patty",
+      "items": {
+        "mainEntree": ["Breaded Chicken Patty", "Grilled Chicken Breast"],
+        "grain": ["Hamburger Bun"],
+        "vegetable": ["Roasted Sweet Potatoes", "Carrot Sticks"],
         "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
-      }
-    },
-    "6": {
-      "day": "Friday",
-      "elem": {
-        "name": "Garlic Cheese Bread",
-        "mainEntree": ["Garlic Cheese Bread w/ Marinara Sauce", "Hot Turkey Ham & Cheese Sandwich"],
-        "vegetable": ["Romaine Lettuce w/ Ranch", "Carrot Sticks"],
-        "fruit": ["Fruit Choice"],
-        "milk": ["1% Milk", "Skim Milk"]
+        "milk": ["Skim Milk", "1% Milk"]
       }
     }
+    // Note: There's no data for the 13th.
   }
 }
