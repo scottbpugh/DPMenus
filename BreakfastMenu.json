@@ -1,51 +1,43 @@
 {
   "menu": {
-    "2": {
+    "9": {
       "day": "Monday",
       "meal": "Breakfast",
       "items": {
-        "mainEntree": ["Crescent Filled w/ Grape Jelly"],
-        "fruit": ["Fruit Choice"],
-        "milk": ["Skim Milk", "1% Milk"]
-      }
-    },
-    "3": {
-      "day": "Tuesday",
-      "meal": "Breakfast",
-      "items": {
-        "grain": ["Banana Muffin"],
+        "protein": ["Strawberry GoGurt"],
+        "grain": ["Cinnamon Crisps"],
         "fruit": ["Fruit Choice"],
         "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "4": {
+    "10": {
+      "day": "Tuesday",
+      "meal": "Breakfast",
+      "items": {
+        "grain": ["Apple Frudel"],
+        "fruit": ["Fruit Choice"],
+        "milk": ["1% Milk", "Skim Milk"]
+      }
+    },
+    "11": {
       "day": "Wednesday",
       "meal": "Breakfast",
       "items": {
-        "grain": ["Mini Cinnis"],
+        "protein": ["Cheese Stick"],
+        "grain": ["French Toast Mini Loaf"],
         "fruit": ["Fruit Choice"],
-        "milk": ["Skim Milk", "1% Milk"]
+        "milk": ["1% Milk", "Skim Milk"]
       }
     },
-    "5": {
+    "12": {
       "day": "Thursday",
       "meal": "Breakfast",
       "items": {
-        "protein": ["Cheese Stick"],
-        "grain": ["Cherrios Cereal Bar"],
+        "grain": ["Ultimate Breakfast Bar"],
         "fruit": ["Fruit Choice"],
-        "milk": ["Skim Milk", "1% Milk"]
-      }
-    },
-    "6": {
-      "day": "Friday",
-      "meal": "Breakfast",
-      "items": {
-        "protein": ["Strawberry Banana Smoothie"],
-        "grain": ["Emoji WG Crackers"],
-        "fruit": ["Fruit Choice"],
-        "milk": ["Skim Milk", "1% Milk"]
+        "milk": ["1% Milk", "Skim Milk"]
       }
     }
+    // Note: There's no data for the 13th.
   }
 }
